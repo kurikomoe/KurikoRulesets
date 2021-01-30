@@ -1,4 +1,4 @@
-DOMAIN,officeimg.vo.msecnd.net
-DOMAIN,office.microsoft.com
-DOMAIN,odc.officeapps.live.com
-DOMAIN,incidents.diagnostics.office.com
+MATCH,officeimg.vo.msecnd.net
+MATCH,office.microsoft.com
+MATCH,odc.officeapps.live.com
+MATCH,incidents.diagnostics.office.com
