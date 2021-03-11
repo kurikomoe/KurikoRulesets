@@ -10,5 +10,6 @@ DOMAIN-SUFFIX,developer.download.nvidia.com
 DOMAIN-SUFFIX,playstation.com
 # apart from dl.playstation.net
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,sony.com
 
 DOMAIN-KEYWORD,ourdvsss
