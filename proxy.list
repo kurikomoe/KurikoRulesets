@@ -14,3 +14,9 @@ DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 DOMAIN-SUFFIX,digicert.com
+
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-KEYWORD,bing
