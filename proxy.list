@@ -23,3 +23,5 @@ DOMAIN-KEYWORD,bing
 
 # avoid Microsoft msn
 DOMAIN-KEYWORD,msn
+DOMAIN-SUFFIX,msn.cn
+
