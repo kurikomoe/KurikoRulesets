@@ -25,3 +25,5 @@ DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,msn
 DOMAIN-SUFFIX,msn.cn
 
+
+DOMAIN-SUFFIX,download.visualstudio.microsoft.com
