@@ -13,7 +13,4 @@ DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 # ink0.com/easylink, a short url service
 DOMAIN-SUFFIX,ink0.com
 
-# dl.playstation.net is download server
-DOMAIN-SUFFIX,dl.playstation.net
-
 DOMAIN-SUFFIX,athaitao.com
