@@ -1,5 +1,6 @@
-title/..(百科|知识)网/
-title/-\s*..(百科|知识)\s*网/
+title/^.*-\s*..(百科|知识)\s*网$/
+title/^小.(百科|知识)网$/
+title/^.小(百科|知识)网$/
 *://www.eeq8.com/*
 *://www.freesion.com/*
 *://www.gkmotor.com/*
