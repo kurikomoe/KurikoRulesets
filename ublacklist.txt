@@ -1,3 +1,6 @@
+title/^.*｜.+加速器.*$/
+title/^.*程序员..网$/
+title/^.*的博客\s*-\s*程序员.*$/
 title/^.*[ ]-[ ].{1,2}搜$/
 title/点击一次就可以出国/
 title/一键访问国外网站/
@@ -534,3 +537,26 @@ title/^.小(百科|知识)网$/
 *://ypsjj.com/*
 *://avior.es/*
 *://cmply9.lottery.bwvtjp.cn/*
+*://www.pnk569.com/*
+*://www.lieqi5.net/*
+*://td6b.xklfc.com/*
+*://www.268513.com/*
+*://m.taiwanxiaochi123.com/*
+*://www.xianggangmeishi.cn/*
+*://www.5a3q.com/*
+*://hostzxw.com/*
+*://www.codeleading.com/*
+*://m.nas-portal.com/*
+*://www.g408.com/*
+*://m.sqgsz.com/*
+*://m.hycaigou.com/*
+*://www.zzthmu.com/*
+*://www.111com.net/*
+*://excel880.com/*
+*://www.joyyang.com/*
+*://m.shouji.com.cn/*
+*://www.ddooo.com/*
+*://apk.tw/*
+*://m.ququyou.com/*
+*://m.duotegame.com/*
+*://www.yuguozw.com/*
