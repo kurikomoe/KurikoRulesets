@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,steampowered.com,steam
-DOMAIN-KEYWORD,steampipe
+DOMAIN-KEYWORD,steampipe.cloudflare
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
