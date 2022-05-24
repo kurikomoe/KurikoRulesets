@@ -3,3 +3,5 @@ DOMAIN,api.bilibili.com
 DOMAIN,data.bilibili.com
 DOMAIN,api.global.bilibili.com
 DOMAIN,app.bilibili.com
+DOMAIN,api.vc.bilibili.com
+DOMAIN-SUFFIX,biliapi.com
