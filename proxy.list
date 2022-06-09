@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,developer.download.nvidia.com
+DOMAIN-KEYWORD,mojang
+DOMAIN-KEYWORD,minecraft
+
 
 DOMAIN-SUFFIX,playstation.com
 # apart from dl.playstation.net
