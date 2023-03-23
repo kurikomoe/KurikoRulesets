@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,steampowered.com,steam
+  - DOMAIN-KEYWORD,steampipe.cloudflare
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net

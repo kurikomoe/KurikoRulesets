@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,officeapps.live.com
+  - DOMAIN-SUFFIX,diagnostics.office.com
+  - DOMAIN-SUFFIX,download.visualstudio.microsoft.com
