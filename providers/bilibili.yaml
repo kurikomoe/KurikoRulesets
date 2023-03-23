@@ -1,6 +1,6 @@
 payload:
     # From download ip
-  - IP-CIRD,101.75.242.4/32,no-resolve
+  - IP-CIDR,101.75.242.4/32,no-resolve
 
     # Oversea CDN
   - DOMAIN-SUFFIX,ourdvsss.com
