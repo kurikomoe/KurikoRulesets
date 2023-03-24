@@ -4,6 +4,8 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,bard
+  - DOMAIN-KEYWORD,bing
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,bingapis.com
