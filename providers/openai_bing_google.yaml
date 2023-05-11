@@ -5,6 +5,11 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,bard
   - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,intercom
+  - DOMAIN-KEYWORD,sentry
+  - DOMAIN-KEYWORD,intercomcdn
+  - DOMAIN-KEYWORD,statsigapi
+  - DOMAIN-KEYWORD,featuregates
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,live.com
