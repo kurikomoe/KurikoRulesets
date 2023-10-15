@@ -30,3 +30,6 @@ payload:
   - DOMAIN-SUFFIX,ucas.ac.cn
 
   - DOMAIN-KEYWORD,lele233
+
+  - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,mteam
