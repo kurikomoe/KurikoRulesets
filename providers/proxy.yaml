@@ -49,3 +49,6 @@ payload:
   - IP-CIDR,129.226.0.0/16,DIRECT,no-resolve
   - IP-CIDR,183.128.0.0/11,DIRECT,no-resolve
   - IP-CIDR,183.131.48.0/20,DIRECT,no-resolve
+
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
