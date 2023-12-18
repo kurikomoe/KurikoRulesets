@@ -1,3 +1,11 @@
 payload:
   - PROCESS-NAME,com.miui.packageinstaller
+  - PROCESS-NAME,com.miui.guardprovider
   - DOMAIN-SUFFIX,api.installer.xiaomi.com
+  - DOMAIN-SUFFIX,avlyun.sec.intl.miui.com
+  - DOMAIN-SUFFIX,avlyun.com
+  - DOMAIN-SUFFIX,tmfsdk.m.qq.com
+  - DOMAIN-SUFFIX,a0.app.xiaomi.com
+  - DOMAIN-SUFFIX,etl-xlmc-ssl.sandai.net
+  - DOMAIN-SUFFIX,cn.app.chat.xiaomi.net
+  
