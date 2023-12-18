@@ -1,2 +1,3 @@
 payload:
-  - PROCESS_NAME,com.miui.packageinstaller
+  - PROCESS-NAME,com.miui.packageinstaller
+  - DOMAIN-SUFFIX,api.installer.xiaomi.com
