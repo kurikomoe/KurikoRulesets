@@ -5,6 +5,15 @@ payload:
   - DOMAIN-SUFFIX,avlyun.sec.intl.miui.com
   - DOMAIN-SUFFIX,avlyun.com
   - DOMAIN-SUFFIX,tmfsdk.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.1.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.2.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.3.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.4.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.5.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.6.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.7.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.8.m.qq.com
+  - DOMAIN-SUFFIX,tmfsdk.9.m.qq.com
   - DOMAIN-SUFFIX,a0.app.xiaomi.com
   - DOMAIN-SUFFIX,etl-xlmc-ssl.sandai.net
   - DOMAIN-SUFFIX,cn.app.chat.xiaomi.net
