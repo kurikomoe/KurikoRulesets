@@ -1,6 +1,6 @@
 payload:
   #- DOMAIN-SUFFIX,kuriko.moe
-  - DOMAIN-SUFFIX, global.aa-rt.sharepoint.com
+  - DOMAIN-SUFFIX,global.aa-rt.sharepoint.com
 
   # tencent cloud
   - DOMAIN-SUFFIX,qcloud.com
