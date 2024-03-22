@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,scholar.google.com
   - DOMAIN-KEYWORD,scholar.google
   - DOMAIN-KEYWORD,openai
