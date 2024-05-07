@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,scholar.google.com
   - DOMAIN-KEYWORD,scholar.google
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,bard
   - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,intercom
