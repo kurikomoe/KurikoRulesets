@@ -1,6 +1,9 @@
 title/-[ ][a-z]+sou$/
 title/-[ ][a-z][a-z][a-z][a-z]$/
-title/.*(联系电话|约炮|援交|外围上门|找外围|黄色直播|约妹网).*/
+title/.*(联系电话|约炮|援交|外围上门|找外围|黄色直播|约妹网|做爱).*/
+title/.*代开.*发票.*/
+title/^Search results for.*/
+title/.*(goseo|黑.(seo|SEO)|谷歌黑(产|帽)).*/
 title/^Search results for.*/
 *://www.google.com/mymaps/*
 *://www.xinhexinli.com/*
