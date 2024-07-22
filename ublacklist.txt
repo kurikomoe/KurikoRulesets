@@ -5,6 +5,12 @@ title/.*代开.*发票.*/
 title/^Search results for.*/
 title/.*(goseo|黑.(seo|SEO)|谷歌黑(产|帽)).*/
 title/^Search results for.*/
+title/>>>\[/
+title/【.+】/
+*://www.9game.cn/*
+*://www.wuzhuiso.com/*
+*://kirokiro.cc/*
+*://www.slideshare.net/*
 *://www.google.com/mymaps/*
 *://www.xinhexinli.com/*
 *://www.shierbook.com/*
