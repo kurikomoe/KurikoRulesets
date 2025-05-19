@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-KEYWORD,imgur
