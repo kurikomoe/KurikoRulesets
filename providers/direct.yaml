@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,download.endnote.com
 
   # visual studio and vscode market
-  - DOMAIN-SUFFIX,download.visualstudio.microsoft.com
+  # - DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 
   # ink0.com/easylink, a short url service
   - DOMAIN-SUFFIX,ink0.com
