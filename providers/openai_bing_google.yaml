@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-KEYWORD,imgur
+  - DOMAIN-KEYWORD,instagram
