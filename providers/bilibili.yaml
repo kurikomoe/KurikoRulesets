@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-KEYWORD,bilivideo
   - IP-CIDR,45.43.32.234/32,no-resolve
   - IP-CIDR,119.29.29.29/32,no-resolve
   - IP-CIDR,128.1.62.200/32,no-resolve
