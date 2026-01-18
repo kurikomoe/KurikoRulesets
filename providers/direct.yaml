@@ -3,6 +3,8 @@ payload:
   #- DOMAIN-SUFFIX,global.aa-rt.sharepoint.com
   - DOMAIN-SUFFIX,sharepoint.cn
 
+  - DOMAIN-KEYWORD,derp
+  
   # tencent cloud
   - DOMAIN-SUFFIX,qcloud.com
 
