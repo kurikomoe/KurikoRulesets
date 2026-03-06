@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,reddit
+  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,scholar.google.com
   - DOMAIN-KEYWORD,scholar.google
   - DOMAIN-KEYWORD,openai
