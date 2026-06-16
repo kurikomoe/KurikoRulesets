@@ -1,6 +1,7 @@
 payload:
   #- DOMAIN-SUFFIX,kuriko.moe
   #- DOMAIN-SUFFIX,global.aa-rt.sharepoint.com
+  - DOMAIN-SUFFIX,c.0v0.io
   - DOMAIN-SUFFIX,sharepoint.cn
 
   - DOMAIN-KEYWORD,derp
